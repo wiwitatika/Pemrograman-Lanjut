@@ -1,6 +1,6 @@
 package Course.SoloLearn.BasicConcept;
 
-public class ModuleQuiz2 {
+public class Module1Quiz3 {
 
     public static void main(String[] args) {
 
