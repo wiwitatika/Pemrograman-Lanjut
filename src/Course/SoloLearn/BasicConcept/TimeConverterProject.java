@@ -13,6 +13,7 @@ public class TimeConverterProject {
         int hours = days * 24;
         int minutes = hours * 60;
         int resultSeconds = minutes * 60;
+        
         System.out.println(resultSeconds);
 
     }
