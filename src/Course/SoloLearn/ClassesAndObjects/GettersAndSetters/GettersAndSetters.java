@@ -1,4 +1,4 @@
-package Course.SoloLearn.ClassesAndObjects;
+package Course.SoloLearn.ClassesAndObjects.GettersAndSetters;
 
 public class GettersAndSetters {
 
