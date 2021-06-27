@@ -104,7 +104,7 @@
           </grid>
         </constraints>
         <properties>
-          <background color="-22733"/>
+          <background color="-7475969"/>
           <font name="Roboto Light" size="14" style="0"/>
           <foreground color="-1"/>
           <text value="Cek"/>
