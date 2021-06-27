@@ -48,7 +48,6 @@ public class FormSorting {
                 DefaultTableModel tableModel = (DefaultTableModel) outputTable.getModel();
                 String[] deretAngka = valueArray.getText().split( ", *" );
                 int[] banyakElement = new int[deretAngka.length];
-
                 if(valueArray.getText().isEmpty()) {
                     JOptionPane.showMessageDialog(rootPanel,
                             "Data belum diisi",
