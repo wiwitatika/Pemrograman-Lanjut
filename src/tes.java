@@ -7,7 +7,7 @@ public class tes {
         /**Random angkaRandom = new Random();
         int random;
 
-        // Melakukan loop
+        // Melakukan looping
         for ( int i = 1; i <= 100; i++ ){
 
             //Mengambil angka acak dari 1 - 9
