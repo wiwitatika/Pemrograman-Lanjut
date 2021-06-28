@@ -4,7 +4,7 @@ public class CreatingClasses {
 
     public void test() {
 
-        System.out.println("Hi");
+        System.out.println("Hi"); //print hai
 
     }
 
