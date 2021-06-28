@@ -45,6 +45,7 @@ public class FormIdentifikasiNIM {
                         "Jenis Kelamin\t\t: " +mhs.getJenisKelamin() +"\n" +
                         "Nomor Urut\t\t: " +mhs.getNomorUrut() +"\n"
                 );
+
             }
         });
 
